@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
  <div>
-   <a href="https://github.com/Danilo205">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danilo205&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo205&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Danilo2505">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danilo2505&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo2505&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
